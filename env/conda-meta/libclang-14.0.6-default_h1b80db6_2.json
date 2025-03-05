@@ -1,0 +1,42 @@
+{
+  "build": "default_h1b80db6_2",
+  "build_number": 2,
+  "channel": "https://repo.anaconda.com/pkgs/main/osx-arm64",
+  "constrains": [],
+  "depends": [
+    "libclang13 14.0.6 default_h24352ff_2",
+    "libcxx >=14.0.6",
+    "libllvm14 >=14.0.6,<14.1.0a0"
+  ],
+  "extracted_package_dir": "/opt/anaconda3/pkgs/libclang-14.0.6-default_h1b80db6_2",
+  "files": [
+    "lib/libclang.dylib"
+  ],
+  "fn": "libclang-14.0.6-default_h1b80db6_2.conda",
+  "license": "Apache-2.0 WITH LLVM-exception",
+  "link": {
+    "source": "/opt/anaconda3/pkgs/libclang-14.0.6-default_h1b80db6_2",
+    "type": 1
+  },
+  "md5": "936b50204a9891608a03714cafa42541",
+  "name": "libclang",
+  "package_tarball_full_path": "/opt/anaconda3/pkgs/libclang-14.0.6-default_h1b80db6_2.conda",
+  "paths_data": {
+    "paths": [
+      {
+        "_path": "lib/libclang.dylib",
+        "path_type": "softlink",
+        "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+        "size_in_bytes": 0
+      }
+    ],
+    "paths_version": 1
+  },
+  "requested_spec": "libclang==14.0.6=default_h1b80db6_2",
+  "sha256": "604a7a7abdc699820e577be5a0a37f35e057321b90dfec5beff50b1010adc385",
+  "size": 141951,
+  "subdir": "osx-arm64",
+  "timestamp": 1734620099000,
+  "url": "https://repo.anaconda.com/pkgs/main/osx-arm64/libclang-14.0.6-default_h1b80db6_2.conda",
+  "version": "14.0.6"
+}
