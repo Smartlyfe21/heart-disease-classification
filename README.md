@@ -96,7 +96,7 @@ If we can achieve at least **95% accuracy** in predicting heart disease cases, w
 
 ## Results
 
-The machine learning models trained in this project achieved strong performance in classifying heart disease cases. Key evaluation metrics include:
+The machine learning models trained in this project achieved strong performance in classifying heart disease cases. 
 
 - **Accuracy**: XX%
 - **Precision**: XX%
